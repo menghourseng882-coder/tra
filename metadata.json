@@ -1,0 +1,8 @@
+{
+  "name": "Stellar Portfolio",
+  "description": "A bold, modern, and editorial-style portfolio for a creative developer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
